@@ -162,7 +162,7 @@ void division()
     printf("\nDivision of entered numbers=%d\n",d);
 }
 
-void modulus()
+void modulus()//hello
 {
     int a, b, d=0;
     printf("\nPlease enter first number   : ");
